@@ -1,0 +1,7 @@
+id=Yandex_DNS4Magisk-Safe
+name=Yandex.DNS4Magisk - Safe
+version=v1
+versionCode=1
+author=K3V1991
+description=Yandex DNS systemless
+minMagisk=17000
